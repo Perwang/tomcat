@@ -42,6 +42,7 @@ target/
 *.ipr
 *.iml
 *.iws
+*.xml
 
 # temp ignore
 logs/
